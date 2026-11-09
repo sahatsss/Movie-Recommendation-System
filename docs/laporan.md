@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Industri perfilman adalah salah satu sektor hiburan yang berkembang pesat secara global. Dengan hadirnya berbagai platform digital yang sudah banya digunakan, jumlah film yang tersedia bagi pengguna semakin meningkat. Namun, dengan bertambahnya jumlah film yang ada, pengguna, bahkan saya sendiri kadang mengalami kebingungan dalam memilih film yang ingin ditonton. Berdasarkan riset oleh Menurut Gomez-Uribe dan Hunt (2015), sekitar 80% dari total waktu yang ditonton pengguna netflix berasal dari konten yang muncul dari sistem rekomendasi, yang menunjukkan bahwa sistem rekomendasi memainkan peran penting dalam meningkatkan pengalaman pengguna dan keterlibatan konsumen. Salah satu solusi untuk permasalahan ini adalah dengan membangun sistem rekomendasi film berbasis data. 
+Industri perfilman adalah salah satu sektor hiburan yang berkembang pesat secara global. Dengan hadirnya berbagai platform digital yang sudah banyak digunakan, jumlah film yang tersedia bagi pengguna semakin meningkat. Namun, dengan bertambahnya jumlah film yang ada, pengguna, bahkan saya sendiri kadang mengalami kebingungan dalam memilih film yang ingin ditonton. Menurut riset Gomez-Uribe dan Hunt (2015), sekitar 80% dari total waktu yang ditonton pengguna netflix berasal dari konten yang muncul dari sistem rekomendasi, yang menunjukkan bahwa sistem rekomendasi memainkan peran penting dalam meningkatkan pengalaman pengguna dan keterlibatan konsumen. Salah satu solusi untuk permasalahan ini adalah dengan membangun sistem rekomendasi film berbasis data. 
 
 Sumber
 Gomez-Uribe, C. A., & Hunt, N. (2015). The Netflix Recommender system. ACM Transactions on Management Information Systems, 6(4), 1–19. https://doi.org/10.1145/2843948
